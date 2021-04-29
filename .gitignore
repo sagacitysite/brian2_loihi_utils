@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.sage-jupyter2
+**/*.sage-jupyter2
